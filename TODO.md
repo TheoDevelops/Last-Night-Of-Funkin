@@ -6,7 +6,7 @@ Si ves esto y eres coder pues me puedes ayudar en estas cosas xd
 - Cuando termina una cancion no vuelve al menu (lo podria arreglar yo pero ya es tarde me da hueva xd)
 
 ## TODO / POR HACER
-- Hacer una custom build implementando <Theo Undertale Framework> en el codigo fuente (ataques y de mas se haran en hscript)
+- Hacer una custom build implementando [Theo Undertale Framework] en el codigo fuente (ataques y de mas se haran en hscript) (ESTO LO HARE YO (THEO) PORQUE PUES SOLO YO TENGO EL CODIGO ESE)
 - Menu de Freeplay Custom
 - Terminar SONGS
 - Añadir los Personajes
