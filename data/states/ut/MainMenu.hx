@@ -24,16 +24,12 @@ var pools = [];
 
 var words:Array<String> = [
     'last night of funkin',
-    'nunca me metieron al server :((',
     'hola 2 am',
     'im sans believe me look eeeeeeeeeeeeeeeeee',
     'wow a last breath fnf mod',
     'rebreath assss',
     'dumbass abner',
-    'last hope was better than this dumbass shit but wow get cancelled',
-    'que rll primavera',
     'vuela pega y esquiva',
-    'ya callate we',
     'y el dinero theo',
     'nenenenene',
     'codename is soo god',
